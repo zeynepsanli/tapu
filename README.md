@@ -1,6 +1,7 @@
 # tapu
 <div>
 <img src="https://github.com/zeynepsanli/tapu/blob/master/src/assets/ss.gif" alt="" width="350" height="750"/>
+<img src="https://github.com/zeynepsanli/tapu/blob/master/src/assets/ss_Trim.gif" alt="" width="350" height="750"/>
 </div>
 
 ## Installing packages:
