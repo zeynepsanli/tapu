@@ -40,11 +40,10 @@ const Image = styled.Image`
   width:110px;
   height:110px;
   marginHorizontal:25px;
-  shadow-color: #000;
-  shadow-offset: {width: 0, height: 2};
-  shadow-opacity: 0.8;
-  shadow-radius: 2;
-  elevation: 1;
+  shadow-color: #171717;
+  shadow-offset: {width: 50, height: 50};
+  shadow-opacity: 1.0;
+
 `;
 
 const RedText = styled.Text`
