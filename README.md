@@ -12,7 +12,7 @@
 - [React Navigation](https://reactnavigation.org/) for page hierarchy
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) for icons
 - [Google Firebase](https://rnfirebase.io/auth/usage) for authentication
-- [React Native Async Storage](https://github.com/react-native-async-storage/async-storage)
+- [React Redux](https://react-redux.js.org/introduction/getting-started)
 - [Styled Components](https://styled-components.com/docs)
 
 
